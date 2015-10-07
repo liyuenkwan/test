@@ -18,12 +18,12 @@
     <repository>
       <id>deployment</id>
       <name>Internal Releases</name>
-      <url>http://http://cnhkgdsk791:8081/nexus/content/repositories/releases/</url>
+      <url>http://cnhkgdsk791:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
       <name>Internal Releases</name>
-      <url>http://http://cnhkgdsk791:8081/nexus/content/repositories/snapshots/</url>
+      <url>http://cnhkgdsk791:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
