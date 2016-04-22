@@ -10,6 +10,8 @@ public class App
     {
         try {
             System.out.println( "Hello World!" );
-        } catch (Exception e) {}
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
